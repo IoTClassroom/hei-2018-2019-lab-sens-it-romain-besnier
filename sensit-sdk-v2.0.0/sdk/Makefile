@@ -7,14 +7,14 @@
 # SDK LIBRARY
 # -----------
 LIB_NAME = SENSIT_SDK_V2.0.0
-LIB_PATH = lib
+LIB_PATH = C:\HEI4\programmationEmbarquee\tpsenseit\hei-2018-2019-lab-sens-it-romain-besnier\sensit-sdk-v2.0.0\sdk\lib
 
 
 # --------------
 # OUTPUT FOLDERS
 # --------------
-BIN_PATH = bin
-OBJ_PATH = obj
+BIN_PATH = C:\HEI4\programmationEmbarquee\tpsenseit\hei-2018-2019-lab-sens-it-romain-besnier\sensit-sdk-v2.0.0\bin
+OBJ_PATH = C:\HEI4\programmationEmbarquee\tpsenseit\hei-2018-2019-lab-sens-it-romain-besnier\sensit-sdk-v2.0.0\obj
 
 
 # ------------
@@ -30,9 +30,9 @@ SIZE_OUTPUT = $(OUTPUT_NAME).siz
 # ---------
 # TOOLCHAIN
 # ---------
-CC = arm-none-eabi-gcc
-BIN_TOOL  = arm-none-eabi-objcopy
-SIZE_TOOL = arm-none-eabi-size
+CC = C:\HEI4\programmationEmbarquee\tpsenseit\7 2018-q2-update\bin\arm-none-eabi-gcc
+BIN_TOOL  = C:\HEI4\programmationEmbarquee\tpsenseit\7 2018-q2-update\bin\arm-none-eabi-objcopy
+SIZE_TOOL = C:\HEI4\programmationEmbarquee\tpsenseit\7 2018-q2-update\bin\arm-none-eabi-size
 
 
 # -------------------
